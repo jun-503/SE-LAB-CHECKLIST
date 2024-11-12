@@ -1,0 +1,11 @@
+.greeting {
+    color: #5cb85c; /* Softer green for better readability */
+    font-family: 'Arial', sans-serif;
+    font-size: 24px; /* Larger font size for emphasis */
+    font-weight: bold; /* Bold text for prominence */
+    text-align: center; /* Center align for a balanced appearance */
+    padding: 10px 0; /* Added padding for spacing */
+    background-color: #f0f9f0; /* Light green background for contrast */
+    border-radius: 8px; /* Rounded corners for a modern look */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
